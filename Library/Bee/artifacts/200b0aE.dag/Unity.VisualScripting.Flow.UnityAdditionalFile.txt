@@ -1,1 +1,1 @@
-/Users/aaryanpatel/Documents/ComputerScience/CSC590-Game-Development/ProjectileGame
+/Users/aaryanpatel/Documents/ComputerScience/CSC590GameDev/ShooterGame
